@@ -4,6 +4,6 @@
 **The .pdf has detailed information and is essentially a guide about this project. <br>**
 
 .dig is the latest Digital file. <br>
-You can view the circuit diagram without additional software at [mugilan-b.github.io](url) <br>
+You can view the logical circuit diagram at [http://mugilan-b.github.io/](url). Zoom out. <br>
 
 **Thanks for visiting!**
